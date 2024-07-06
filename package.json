@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stemmlerjs/serverless-typescript-graphql-netlify-starter.git"
+    "url": "git+https://github.com/Danny-Lenko/e-clothing-api.git"
   },
   "keywords": [
     "typescript",
@@ -18,12 +18,8 @@
     "api",
     "netlify"
   ],
-  "author": "Khalil Stemmler <khalil@apollographql.com>",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/stemmlerjs/serverless-typescript-graphql-netlify-starter/issues"
-  },
-  "homepage": "https://github.com/stemmlerjs/serverless-typescript-graphql-netlify-starter#readme",
   "devDependencies": {
     "@graphql-codegen/cli": "^1.12.2",
     "@graphql-codegen/introspection": "1.12.2",
